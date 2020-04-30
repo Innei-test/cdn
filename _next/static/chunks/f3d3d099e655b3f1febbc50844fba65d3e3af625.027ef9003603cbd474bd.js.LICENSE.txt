@@ -1,0 +1,14 @@
+/*!
+  Copyright (c) 2017 Jed Watson.
+  Licensed under the MIT License (MIT), see
+  http://jedwatson.github.io/classnames
+*/
+
+/*!
+ * inflection
+ * Copyright(c) 2011 Ben Lin <ben@dreamerslab.com>
+ * MIT Licensed
+ *
+ * @fileoverview
+ * A port of inflection-js to node.js module.
+ */
